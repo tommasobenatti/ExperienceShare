@@ -3,9 +3,9 @@
   "Name": "ExperienceShare",
   "DestinationType": "ImageUploader", "FileUploader",
   "RequestMethod": "POST",
-  "RequestURL": "YOUR_WEBSITE/upload",
+  "RequestURL": "https://yourwebsite.com/upload",
   "Headers": {
-    "key": "PUT_YOUR_API_KEY_HERE"
+    "key": "abc123" //put your key here
     "name": "$filename$"
   },
   "Body": "MultipartFormData",
