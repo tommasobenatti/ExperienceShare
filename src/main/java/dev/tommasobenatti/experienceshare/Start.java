@@ -13,6 +13,6 @@ public class Start {
         SpringApplication.run(Start.class, args);
 
         ExperienceShare.getInstance().start();
-        ExperienceShare.logger("ExperienceShare started on " + Lang.DOMAIN.getValue() + ":" + Lang.PORT.getValue());
+        ExperienceShare.logger("Loading done: Listening on " + Lang.DOMAIN.getValue() + ":" + Lang.PORT.getValue());
     }
 }
