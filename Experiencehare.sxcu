@@ -1,0 +1,15 @@
+{
+  "Version": "13.5.0",
+  "Name": "ExperienceShare",
+  "DestinationType": "ImageUploader", "FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "YOUR_WEBSITE/upload",
+  "Headers": {
+    "key": "PUT_YOUR_API_KEY_HERE"
+    "name": "$filename$"
+  },
+  "Body": "MultipartFormData",
+  "FileFormName": "sharex",
+  "URL": "$response$",
+  "ErrorMessage": "$response$"
+}
