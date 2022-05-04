@@ -7,10 +7,10 @@ import java.beans.ConstructorProperties;
 
 public enum Lang {
 
-    API_KEY("PUT_YOUR_API_KEY_HERE"), //This can be anything you want
+    API_KEY("123abc"), //This can be anything you want
     TITLE("Powered by FiatLinUX 🚗🐧"),
-    DOMAIN("https://PUT_YOUR_DOMAIN_HERE"),
-    DESCRIPTION("File uploader by Tommaso"),
+    DOMAIN("https://yourdomain.com"),
+    DESCRIPTION("An easy file uploader for ShareX"),
     COLOR("#55FFFF"),
     PORT("8080");
 
