@@ -1,5 +1,5 @@
 {
-  "Version": "13.5.0",
+  "Version": "13.7.0",
   "Name": "ExperienceShare",
   "DestinationType": "ImageUploader", "FileUploader",
   "RequestMethod": "POST",
